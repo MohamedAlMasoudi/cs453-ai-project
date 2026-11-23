@@ -28,7 +28,7 @@ The notebook contains:
 Python 3 (Google Colab default). Only the standard library is used: `copy`, `platform`, `collections`, `heapq`, `itertools`. No extra installs, GPU, paid API or website are needed.
 
 ## How to run
-1. Open the notebook in Colab: [Open in Colab](https://colab.research.google.com/github/MohamedAlMasoudi/cs453-ai-project/blob/master/project.ipynb)
+1. Open the notebook in Colab: [Open in Colab]([https://colab.research.google.com/github/MohamedAlMasoudi/cs453-ai-project/blob/master/project.ipynb](https://colab.research.google.com/github/MohamedAlMasoudi/cs453-ai-project/blob/master/project.ipynb#scrollTo=X9TyT18tiNBS))
 2. Check that `STUDENT_ID = "09211116"` (a string, leading zero preserved) in the Task 2 cell.
 3. Select **Runtime > Restart session and run all**.
 4. Expected output: variant 1, goal F, removed edge `('B', 'E')`; simulator tests reject illegal actions; BFS and A* both return a 3-move route S -> A -> C -> F followed by Deliver, and the final state is `('F', True)`.
